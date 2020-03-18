@@ -710,7 +710,7 @@ h1, h2, h3, h4, h5,
 
 .section-sub-title {
   color: #7971ea;
-  text-transform: uppercase;
+  text-transform: lowercase;
   font-size: .7rem;
   font-weight: 900;
   display: block;
